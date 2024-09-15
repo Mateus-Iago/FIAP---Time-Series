@@ -1,1 +1,1 @@
-# FIAP---Series-Temporais-
+Este repositório contém um exercício prático focado em séries temporais e limpeza de dados utilizando a biblioteca Pandas em Python. É um trabalho da faculdade que me ajudou muito a desenvolver ainda mais minhas habilidades para a analise e limpeza de dados além de aprender a utilziar e analisar series temporais
